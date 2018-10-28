@@ -1,5 +1,6 @@
 # The Workshop about Licenses
 This is the repository for the best workshop about open licenses ever made!
+
 Workshop - workflow: https://docs.google.com/presentation/d/177knwjjDTG72HxaL-5W0-o0CzX-QmXTf4fyHpY74rHI/edit?usp=sharing
 
 # Licenses and Standards

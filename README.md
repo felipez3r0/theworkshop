@@ -1,5 +1,6 @@
 # The Workshop about Licenses
 This is the repository for the best workshop about open licenses ever made!
+Workshop - workflow: https://docs.google.com/presentation/d/177knwjjDTG72HxaL-5W0-o0CzX-QmXTf4fyHpY74rHI/edit?usp=sharing
 
 # Licenses and Standards
 A free license or open license is a license agreement which contains conditions permitted to the user from the holder on a specific list of uses for his work, which gives him four major freedoms.

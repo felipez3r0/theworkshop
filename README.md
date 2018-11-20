@@ -26,8 +26,8 @@ When we are using those platforms, we need to add an open license to guarantee t
   
 ## Using Content
 ### Scenarios: Consequences 
- - You use a photo published under copywrite in a school paper
- - You use a graph published under copywrite in a published article on a blog with ads
+ - You use a photo published under copyright in a school paper
+ - You use a graph published under copyright in a published article on a blog with ads
  - You remix someone's code published under CC without recognition. 
 
 # Resources 
